@@ -98,6 +98,7 @@ export PATH="$PATH:/snap/bin"
 ## Github Repos
 cd /opt
 sudo git clone https://github.com/danielmiessler/SecLists.git
+sudo git clone https://github.com/carlospolop/PEASS-ng.git
 
 
 #Clean-up unused packages (leave enabled):
